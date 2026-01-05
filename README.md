@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Matt
 
-<!--
-**ZertiXDevHUB/ZertiXDevHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 17-year-old IT student | 3rd year at a private IT school  
 
-Here are some ideas to get you started:
+I'm focused on learning **modern technologies**, improving my **problem-solving skills**, and building practical projects.  
+I have a strong interest in **cybersecurity**, including testing antivirus behavior and understanding system security in controlled, ethical environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Technologies
+- **HTML** – semantic structure & accessibility  
+- **CSS** – responsive layouts & modern styling  
+- **JavaScript** – logic, interactivity, and problem solving  
+
+---
+
+## 🛡️ Cybersecurity Interests
+- System and application security  
+- Antivirus behavior & limit testing (ethical use only)  
+- Understanding attack & defense mechanisms  
+- Exploring how modern security tools work internally  
+
+---
+
+## 🔧 What I'm Working On
+- Building real-world projects with HTML, CSS & JavaScript  
+- Improving algorithmic thinking and debugging skills  
+- Learning modern development and security practices  
+
+---
+
+## 🚀 Goals
+- Become a strong developer with a security-focused mindset  
+- Create projects that combine development and cybersecurity  
+- Continuously learn and adapt to new technologies  
+
+---
+
+## 📫 Contact
+- GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+> *Learn. Build. Secure.*
